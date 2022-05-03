@@ -1,14 +1,19 @@
-# Nerfies
+# EyeNerf
 
-This is the repository that contains source code for the [Nerfies website](https://nerfies.github.io).
+This is the repository that contains source code for the [Eyenerf website](TBD).
 
-If you find Nerfies useful for your work please cite:
+This webpage (and readme) is built with the template from [NeRFies](https://github.com/nerfies/nerfies.github.io). We sincerely thank Keunhong Park for developing and open-sourcing this template. 
+
+If you find EyeNerf useful for your work please cite:
 ```
-@article{park2021nerfies
-  author    = {Park, Keunhong and Sinha, Utkarsh and Barron, Jonathan T. and Bouaziz, Sofien and Goldman, Dan B and Seitz, Steven M. and Martin-Brualla, Ricardo},
-  title     = {Nerfies: Deformable Neural Radiance Fields},
-  journal   = {ICCV},
-  year      = {2021},
+@article{li2022eyenerf
+  author    = {Li, Gengyan and Meka, Abhimitra and Mueller, Franziska and Buehler, Marcel C. and Hilliges, Otmar and Beeler, Thabo},
+  title     = {EyeNerf: A Hybrid Representation for Photorealistic Synthesis, Animation and Relighting of Human Eyes},
+  journal   = {ACM Transactions on Graphics (TOG)},
+  year      = {2022},
+  volume    = {41},
+  number    = {4},
+  doi       = {10.1145/3528223.3530130},
 }
 ```
 
