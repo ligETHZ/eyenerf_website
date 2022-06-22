@@ -1,6 +1,6 @@
 # EyeNerf
 
-This is the repository that contains source code for the [Eyenerf website](TBD).
+This is the repository that contains source code for the [Eyenerf website](https://ligethz.github.io/eyenerf_website/).
 
 This webpage (and readme) is built with the template from [NeRFies](https://github.com/nerfies/nerfies.github.io). We sincerely thank Keunhong Park for developing and open-sourcing this template. 
 
