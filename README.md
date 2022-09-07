@@ -6,14 +6,22 @@ This webpage (and readme) is built with the template from [NeRFies](https://gith
 
 If you find EyeNerf useful for your work please cite:
 ```
-@article{li2022eyenerf
-  author    = {Li, Gengyan and Meka, Abhimitra and Mueller, Franziska and Buehler, Marcel C. and Hilliges, Otmar and Beeler, Thabo},
-  title     = {EyeNerf: A Hybrid Representation for Photorealistic Synthesis, Animation and Relighting of Human Eyes},
-  journal   = {ACM Transactions on Graphics (TOG)},
-  year      = {2022},
-  volume    = {41},
-  number    = {4},
-  doi       = {10.1145/3528223.3530130},
+@article{10.1145/3528223.3530130,
+author = {Li, Gengyan and Meka, Abhimitra and Mueller, Franziska and Buehler, Marcel C. and Hilliges, Otmar and Beeler, Thabo},
+title = {EyeNeRF: A Hybrid Representation for Photorealistic Synthesis, Animation and Relighting of Human Eyes},
+year = {2022},
+issue_date = {July 2022},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {41},
+number = {4},
+issn = {0730-0301},
+url = {https://doi.org/10.1145/3528223.3530130},
+doi = {10.1145/3528223.3530130},
+month = {jul},
+articleno = {166},
+numpages = {16},
+keywords = {eye modeling, specularity synthesis, relighting, refraction, pose optimization, HDR rendering, model fitting, volumetric rendering, geometry deformation modeling, differentiable rendering, novel view synthesis, neural rendering, NeRF, regazing}
 }
 ```
 
